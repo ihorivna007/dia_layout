@@ -7,4 +7,4 @@ Adapted the page to the following screens:
 - Desktop 1280px
 - Small desktop 1024px
 - Tablet 640px
-- Mobile (> 320px)
+- Mobile > 320px
